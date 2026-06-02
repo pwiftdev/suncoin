@@ -217,11 +217,7 @@ function Header() {
         <a href="#story">Story</a>
         <a href="#compare">Why $SUN</a>
         <a href="#buy">Buy</a>
-        <a
-          href="https://x.com/i/communities/2011958732695961610"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
+        <a href="https://x.com/Suncoinpf" target="_blank" rel="noreferrer noopener">
           X Community
         </a>
       </nav>
